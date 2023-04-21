@@ -16,9 +16,6 @@ To use the Github User Card App, follow these simple steps:
 =>No. of public repos
 =>No. of public gists
 =>Profile created at in Time.
-<h3>Demo:</h3>
-![github](https://user-images.githubusercontent.com/100849820/233560520-f30a1d5f-adae-49c5-b269-8e078ed70eaf.png)
-
 
 <h3>Technologies Used</h3>
 This app is built using ReactJs, JavaScript,Chakra-Ui,Github,Netlify. It also utilizes the Github API to retrieve public information about users.
