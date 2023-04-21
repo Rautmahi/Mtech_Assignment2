@@ -10,8 +10,6 @@ const initValue = {
   token: "",
 };
 
-
-
 function Card() {
   const [state, dispatch] = useReducer(githubReducer, initValue);
   const [text, setText] = useState("");
@@ -34,7 +32,9 @@ function Card() {
 
        
        <Box display={state.data.id?"block":"none"}>
-        <Stack direction={{sm:"row",md:"column",lg:"column"}} boxShadow="lg" w={{lg:"50%",md:"50%",sm:"50%"}} p="20px" m="auto"  key={state.data.id} borderColor="gray.500" borderRadius="5px">
+        <Stack direction={{sm:"row",md:"column",lg:"column"}} 
+        boxShadow="lg" w={{lg:"50%",md:"50%",sm:"50%"}} p="20px" m="auto" 
+         key={state.data.id} borderColor="gray.500" borderRadius="5px">
                     <Box w="50%" m="auto" h="250px" >
                         <Image src={state.data.avatar_url} w="100%" h="100%" />
                     </Box>
