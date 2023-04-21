@@ -22,3 +22,5 @@ This app is built using ReactJs, JavaScript,Chakra-Ui,Github,Netlify. It also ut
 
 <h3>Author:</h3>
 Mahesh Raut
+
+<h3> Deploymnent Link :</h3> https://64421306f54f6507a2bf2a4f--regal-maamoul-6baf7c.netlify.app/
