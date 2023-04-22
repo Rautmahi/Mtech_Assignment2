@@ -6,9 +6,11 @@ This web app is designed to display public information about Github users in a n
 To use the Github User Card App, follow these simple steps:
 
 1.Enter a Github username in the input field on the main page
-2.Click the "Submit" button
+<br/>
+2.Click the "Submit" button.
+<br/>
 3.The user's public information will be displayed in a card UI below the form.
-
+<br/>
 4.The following public information will be displayed on the card:
 =>Avatar Image 
 =>Username 
@@ -16,11 +18,10 @@ To use the Github User Card App, follow these simple steps:
 =>No. of public repos
 =>No. of public gists
 =>Profile created at in Time.
-
+<br/>
 <h3>Technologies Used</h3>
 This app is built using ReactJs, JavaScript,Chakra-Ui,Github,Netlify. It also utilizes the Github API to retrieve public information about users.
-
-<h3>Author:</h3>
-Mahesh Raut
-
+<br/>
+<h3>Author:</h3>Mahesh Raut
+<br/>
 <h3> Deploymnent Link :</h3> https://64421306f54f6507a2bf2a4f--regal-maamoul-6baf7c.netlify.app/
