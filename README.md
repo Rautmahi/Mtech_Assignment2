@@ -22,6 +22,6 @@ To use the Github User Card App, follow these simple steps:
 <h3>Technologies Used</h3>
 This app is built using ReactJs, JavaScript,Chakra-Ui,Github,Netlify. It also utilizes the Github API to retrieve public information about users.
 <br/>
-<h3>Author:</h3>Mahesh Raut
+<h3>Author:Mahesh Raut</h3>Mahesh Raut
 <br/>
 <h3> Deploymnent Link :</h3> https://64421306f54f6507a2bf2a4f--regal-maamoul-6baf7c.netlify.app/
